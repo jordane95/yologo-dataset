@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# script to make the logo dataset
+
 # please place this script in the datasets directory
 # and copy the download directoy containing all the downloaded
 # image from different key words which have already been annotated
@@ -7,8 +9,6 @@
 # as its corresponding image
 # by the way, you can also customize the directory structure by
 # modifing the cooresponding part of this script
-# please note that this script will delete the original files, if you wish
-# to perserve it, please remove the last line of this script 
 
 path=$(pwd)
 
@@ -58,4 +58,3 @@ for dir in $(ls); do
 done
 
 cd ..
-rm -r download
