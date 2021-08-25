@@ -1,0 +1,10 @@
+circle
+ellipse
+triangle
+square
+cross
+plus
+hexagon
+rhombus
+inverse triangle
+unk

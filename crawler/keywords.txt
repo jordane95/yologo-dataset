@@ -1,0 +1,6 @@
+hotel+facade+logo
+pharmacy+facade+logo
+pharmacy+signboard
+restaurant+facade+logo
+restaurant+signboard
+shop+facade+logo
